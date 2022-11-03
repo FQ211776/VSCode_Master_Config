@@ -1,0 +1,4 @@
+
+#### ordena varias lineas de texto en orden alfabetico al presionar <f9>
+code --install-extension Tyriar.sort-lines
+
