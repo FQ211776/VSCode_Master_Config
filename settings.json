@@ -46,6 +46,23 @@
             "selection.background": "#FFA00040",
             "statusBarItem.remoteBackground": "#FFA000"
         },
-        
+        // ## 002 ###################################### Fuentes ######################################
+        //
+        // #### de la terminal
+        "terminal.integrated.fontFamily": "BitstreamVeraSansMono Nerd Font",
+        //
+        // #### del editor
+        "editor.fontFamily": "PragmataPro Liga",
+        "editor.fontLigatures": true,
+        // 
+        // #### Tamaño de fuentes
+         "debug.console.fontSize": 12,
+        "editor.suggestFontSize": 12,
+        "markdown.preview.fontSize": 12,
+        "terminal.integrated.fontSize": 12,
+        "errorLens.fontSize": "11",
+        "editor.fontSize": 16,
+        //"editor.letterSpacing": 1.0,
+        //"editor.lineHeight": 22,
     }
-    
+}
