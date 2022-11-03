@@ -18,3 +18,8 @@ code --install-extension Tyriar.sort-lines
 
 code --install-extension vsls-contrib.gitdoc
 
+######################################## Para verificar ortografia  ################################ 
+
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-spanish
+

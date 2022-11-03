@@ -25,16 +25,78 @@
         100,
         120
     ],
+    //
     //    
     // ## 003 ###################################### Tabs en ves de list en la terminal integrada ##
-    //
     "terminal.integrated.tabs.enabled": true,
     //
-    // ## 004 ###################################### Extension GitDoc para hacer auto commits al salvar
     //
+    // ## 004 ###################################### Extension GitDoc para hacer auto commits al salvar
     "gitdoc.enabled": false,
     //
     //
+    // ## 005 ###################################### Corrector de ortografia #######################
+    // code --install-extension streetsidesoftware.code-spell-checker
+    // code --install-extension streetsidesoftware.code-spell-checker-spanish
+    "cSpell.language": "en,es",
+    "cSpell.showStatus": true,
+    "cSpell.userWords": [
+        "alfazero",
+        "appbar",
+        "ARGB",
+        "autofocus",
+        "autovalidate",
+        "buildable",
+        "cupertino",
+        "Cupertino",
+        "dartpad",
+        "Diagnosticable",
+        "discoverability",
+        "endtemplate",
+        "entrantly",
+        "firestore",
+        "gnupg",
+        "gpgconf",
+        "gpgsign",
+        "initializers",
+        "jacobr",
+        "keyid",
+        "microtask",
+        "mkdir",
+        "mocktail",
+        "myapp",
+        "NEWKEYHERE",
+        "nullable",
+        "nullsafety",
+        "reentrantly",
+        "reparent",
+        "reparenting",
+        "Reparenting",
+        "Schyler",
+        "signingkey",
+        "stringification",
+        "subclassing",
+        "subwidgets",
+        "unregisters",
+        "unsync",
+        "useb",
+        "uuid",
+        "wireframe",
+        "writeln",
+        "youtube"
+    ],
+    "cSpell.ignorePaths": [
+        "plantillas/**", // Doesn't currently work due to how the current working directory is determined.
+        "plantillas/",
+        "node_modules", // this will ignore anything the node_modules directory
+        "**/node_modules", // the same for this one
+        "**/node_modules/**", // the same for this one
+        "node_modules/**", // Doesn't currently work due to how the current working directory is determined.
+        "vscode-extension", //
+        ".git", // Ignore the .git directory
+        "*.dll", // Ignore all .dll files.
+        "**/*.dll" // Ignore all .dll files
+    ],
     // ## 002 ###################################### Personalizar Apariencia #############################
     //
     // #### iconos
@@ -82,5 +144,6 @@
             "selection.background": "#FFA00040",
             "statusBarItem.remoteBackground": "#FFA000"
         },
-    }
+    },
+    "git.enableSmartCommit": true
 }

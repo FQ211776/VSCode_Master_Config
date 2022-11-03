@@ -138,10 +138,7 @@ code --install-extension stackbreak.comment-divider
 code --install-extension stackbreak.comment-divider
 code --install-extension stateful.runme
 code --install-extension stateful.stable
-code --install-extension streetsidesoftware.code-spell-checker
-code --install-extension streetsidesoftware.code-spell-checker
-code --install-extension streetsidesoftware.code-spell-checker-spanish
-code --install-extension streetsidesoftware.code-spell-checker-spanish
+
 code --install-extension telesoho.vscode-markdown-paste-image
 code --install-extension telesoho.vscode-markdown-paste-image
 code --install-extension tomoki1207.pdf
