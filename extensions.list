@@ -23,3 +23,8 @@ code --install-extension vsls-contrib.gitdoc
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension streetsidesoftware.code-spell-checker-spanish
 
+######################################## Para colorear los corchetes ###############################
+
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+
+

@@ -1,5 +1,5 @@
-code --install-extension CoenraadS.bracket-pair-colorizer-2
-code --install-extension CoenraadS.bracket-pair-colorizer-2
+
+
 code --install-extension Dart-Code.dart-code
 code --install-extension Dart-Code.flutter
 code --install-extension DiemasMichiels.emulate

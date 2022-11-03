@@ -97,6 +97,25 @@
         "*.dll", // Ignore all .dll files.
         "**/*.dll" // Ignore all .dll files
     ],
+    //
+    //
+    // ## 002 ###################################### bracket-pair-colorizer-2 ######################
+    // code --install-extension CoenraadS.bracket-pair-colorizer-2
+    "bracket-pair-colorizer-2.colors": [
+        "#fafafa",
+        "#9F51B6",
+        "#F7C244",
+        "#F07850",
+        "#9CDD29",
+        "#0098FA"
+    ],
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    //
+    //
+
+
+
+
     // ## 002 ###################################### Personalizar Apariencia #############################
     //
     // #### iconos
