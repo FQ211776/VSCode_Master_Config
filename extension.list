@@ -163,8 +163,8 @@ code --install-extension vsls-contrib.codetour
 code --install-extension vsls-contrib.codetour
 code --install-extension vsls-contrib.gistfs
 code --install-extension vsls-contrib.gistfs
-code --install-extension vsls-contrib.gitdoc
-code --install-extension vsls-contrib.gitdoc
+
+
 code --install-extension wangxinhai-ref-chunsen.flutter-code-select
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wayou.vscode-todo-highlight
