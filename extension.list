@@ -23,8 +23,8 @@ code --install-extension IBM.output-colorizer
 code --install-extension IBM.output-colorizer
 code --install-extension OnlyLys.leaper
 code --install-extension OnlyLys.leaper
-code --install-extension PKief.material-icon-theme
-code --install-extension PKief.material-icon-theme
+
+
 code --install-extension PeterSchmalfeldt.explorer-exclude
 code --install-extension PeterSchmalfeldt.explorer-exclude
 code --install-extension PhilHindle.errorlens
@@ -173,5 +173,3 @@ code --install-extension wenfangdu.snippet-generator
 code --install-extension yt1997kt.flutter-bloc
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension yzhang.markdown-all-in-one
-code --install-extension zhuangtongfa.material-theme
-code --install-extension zhuangtongfa.material-theme
