@@ -116,6 +116,11 @@
     "editor.stickyScroll.enabled": true,
     //
     //
+    // ## 002 ###################################### Usar siempre la UI de VSCode y no la nativa del OS
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    //
+    //
     // ## 002 ###################################### Personalizar Apariencia #############################
     //
     // #### iconos
