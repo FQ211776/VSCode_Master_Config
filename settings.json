@@ -44,6 +44,7 @@
         "alfazero",
         "appbar",
         "ARGB",
+        "autofetch",
         "autofocus",
         "autovalidate",
         "buildable",
@@ -169,6 +170,11 @@
             "statusBarItem.remoteBackground": "#FFA000"
         },
     },
+    //
+    //
+    // ## 002 ###################################### Relacionados con git ##########################
     "git.enableSmartCommit": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "git.allowForcePush": true,
+    "git.autofetch": "all",
 }
