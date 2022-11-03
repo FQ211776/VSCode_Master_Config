@@ -1,4 +1,16 @@
 
+
+
+## 001 ###################################### Personalizar Apariencia #############################
+
+#### iconos
+code --install-extension PKief.material-icon-theme
+
+#### tema
+code --install-extension zhuangtongfa.material-theme
+
+######################################## Utilidades de Texto ###################################### 
+
 #### ordena varias lineas de texto en orden alfabetico al presionar <f9>
 code --install-extension Tyriar.sort-lines
 
