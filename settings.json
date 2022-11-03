@@ -112,10 +112,10 @@
     "bracket-pair-colorizer-2.depreciation-notice": false,
     //
     //
-
-
-
-
+    // ## 002 ###################################### El sticky scroll lo mejor desde q se invento el intellsense
+    "editor.stickyScroll.enabled": true,
+    //
+    //
     // ## 002 ###################################### Personalizar Apariencia #############################
     //
     // #### iconos
@@ -164,5 +164,6 @@
             "statusBarItem.remoteBackground": "#FFA000"
         },
     },
-    "git.enableSmartCommit": true
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
 }
