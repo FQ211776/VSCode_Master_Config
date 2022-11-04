@@ -136,6 +136,7 @@ code --install-extension ms-vscode.live-server
 code --install-extension usernamehw.errorlens
 
 
+
 ######################################## Resaltado de los Todos ####################################
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension wayou.vscode-todo-highlight
@@ -143,4 +144,7 @@ code --install-extension wayou.vscode-todo-highlight
 
 ######################################## Creador de Snippets #######################################
 code --install-extension wenfangdu.snippet-generator
+
+######################################## Para el explorador de archivos ############################
+code --install-extension carlocardella.vscode-filesystemtoolbox
 

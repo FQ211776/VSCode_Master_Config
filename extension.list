@@ -13,8 +13,7 @@ code --install-extension IBM.output-colorizer
 
 
 
-code --install-extension PhilHindle.errorlens
-code --install-extension PhilHindle.errorlens
+
 
 
 code --install-extension Shan.code-settings-sync
@@ -39,8 +38,7 @@ code --install-extension atlassian.atlascode
 
 
 
-code --install-extension carlocardella.vscode-filesystemtoolbox
-code --install-extension carlocardella.vscode-filesystemtoolbox
+
 code --install-extension christian-kohler.path-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension cyberbiont.vscode-sidenotes
