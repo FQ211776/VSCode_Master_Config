@@ -148,3 +148,6 @@ code --install-extension wenfangdu.snippet-generator
 ######################################## Para el explorador de archivos ############################
 code --install-extension carlocardella.vscode-filesystemtoolbox
 
+######################################## Para el anotador de bookmarks #############################
+code --install-extension alefragnani.Bookmarks
+

@@ -30,8 +30,6 @@ code --install-extension akmarnafi.comment-headers
 code --install-extension akmarnafi.comment-headers
 code --install-extension albert.TabOut
 code --install-extension albert.TabOut
-code --install-extension alefragnani.Bookmarks
-code --install-extension alefragnani.Bookmarks
 
 
 code --install-extension atlassian.atlascode
