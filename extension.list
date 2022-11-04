@@ -108,7 +108,6 @@ code --install-extension vsls-contrib.codetour
 
 
 
-code --install-extension wenfangdu.snippet-generator
-code --install-extension wenfangdu.snippet-generator
+
 
 

@@ -140,3 +140,7 @@ code --install-extension usernamehw.errorlens
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension wayou.vscode-todo-highlight
 
+
+######################################## Creador de Snippets #######################################
+code --install-extension wenfangdu.snippet-generator
+
