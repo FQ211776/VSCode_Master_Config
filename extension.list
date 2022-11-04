@@ -100,8 +100,7 @@ code --install-extension stateful.stable
 
 
 
-code --install-extension usernamehw.errorlens
-code --install-extension usernamehw.errorlens
+
 
 code --install-extension vsls-contrib.codetour
 code --install-extension vsls-contrib.codetour
