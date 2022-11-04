@@ -27,8 +27,9 @@
     ],
     //
     //    
-    // ## 003 ###################################### Tabs en ves de list en la terminal integrada ##
+    // ## 003 ###################################### alugunas configuraciones de la terminal integrada ##
     "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.smoothScrolling": true,
     //
     //
     // ## 004 ###################################### Extension GitDoc para hacer auto commits al salvar
@@ -177,4 +178,31 @@
     "git.confirmSync": false,
     "git.allowForcePush": true,
     "git.autofetch": "all",
+    //
+    //
+    // ## 002 ###################################### Relacionados con el explorador de archivos ####
+    "explorer.sortOrder": "type", // Ordena los archivos por tipo de extension
+    "explorer.confirmDragAndDrop": false, // arrastrar archivos
+    "explorer.autoReveal": true, // Automostrarse
+    "explorer.confirmDelete": false, // no pide autorización para borrar archivos
+    //
+    //
+    // ## 002 ###################################### Relacionados con el editor ####################
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingOvertype": "always",
+    "editor.autoClosingDelete": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.inlineSuggest.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true, // format text whenever its pasted into a file
+    "editor.trimAutoWhitespace": true, // remove trailing auto inserted whitespace
+    "editor.matchBrackets": "always", // highlight matching brackets when one of them is selected
+    "editor.codeLens": true, // controls if the editor shows code lenses
+    "editor.smoothScrolling": true, // controls whether the editor will scroll using an animation.
+    "editor.cursorBlinking": "expand", // control the cursor blinking animation style
+    "editor.cursorSurroundingLines": 15, //wtf dude
+    "editor.cursorSmoothCaretAnimation": true, // controls whether the smooth caret animation should be enabled.
+    "editor.mouseWheelZoom": true, // zoom the font of the editor when using mouse wheel and holding Ctrl
+    "editor.minimap.renderCharacters": false, //render color blocks instead of the actual characters in minimap
+    "editor.minimap.enabled": true, //will disable minimap
 }
