@@ -156,3 +156,8 @@ code --install-extension jspolancor.presentationmode
 
 ######################################## Code Runeer ###############################################
 code --install-extension formulahendry.code-runner
+
+
+#######################################EXCEL Y CSV ###############################################
+code --install-extension GrapeCity.gc-excelviewer
+

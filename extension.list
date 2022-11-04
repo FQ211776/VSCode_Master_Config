@@ -3,8 +3,6 @@
 
 
 
-code --install-extension GrapeCity.gc-excelviewer
-code --install-extension GrapeCity.gc-excelviewer
 
 code --install-extension IBM.output-colorizer
 code --install-extension IBM.output-colorizer
