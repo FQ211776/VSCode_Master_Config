@@ -82,6 +82,8 @@ code --install-extension bierner.emojisense
 #code --install-extension wangxinhai-ref-chunsen.flutter-code-select
 #code --install-extension yt1997kt.flutter-bloc
 #code --install-extension jeroen-meijer.pubspec-assist
+#code --install-extension orestesgaolin.dart-export-index
+#code --install-extension pflannery.vscode-versionlens
 
 
 

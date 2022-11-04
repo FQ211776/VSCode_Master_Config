@@ -78,9 +78,7 @@ code --install-extension naumovs.color-highlight
 code --install-extension naumovs.color-highlight
 code --install-extension olivertasevski.vscode-space
 code --install-extension olivertasevski.vscode-space
-code --install-extension orestesgaolin.dart-export-index
-code --install-extension pflannery.vscode-versionlens
-code --install-extension pflannery.vscode-versionlens
+
 code --install-extension quicktype.quicktype
 code --install-extension quicktype.quicktype
 code --install-extension redhat.fabric8-analytics
