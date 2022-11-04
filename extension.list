@@ -147,8 +147,7 @@ code --install-extension vscjava.vscode-spring-boot-dashboard
 code --install-extension vscjava.vscode-spring-initializr
 code --install-extension vsls-contrib.codetour
 code --install-extension vsls-contrib.codetour
-code --install-extension vsls-contrib.gistfs
-code --install-extension vsls-contrib.gistfs
+
 
 
 code --install-extension wangxinhai-ref-chunsen.flutter-code-select

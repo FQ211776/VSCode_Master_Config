@@ -57,4 +57,5 @@ code --install-extension henriqueBruno.github-repository-manager
 code --install-extension huizhou.githd
 code --install-extension letmaik.git-tree-compare
 code --install-extension mhutchie.git-graph
+code --install-extension vsls-contrib.gistfs
 
