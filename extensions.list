@@ -112,7 +112,7 @@ code --install-extension bierner.emojisense
 ######################################## DOTNET#####################################################
 
 code --install-extension ms-dotnettools.csharp
-
+code --install-extension jchannon.csharpextensions
 
 
 
@@ -154,3 +154,5 @@ code --install-extension alefragnani.Bookmarks
 ######################################## Para el anotador de bookmarks #############################
 code --install-extension jspolancor.presentationmode
 
+######################################## Code Runeer ###############################################
+code --install-extension formulahendry.code-runner

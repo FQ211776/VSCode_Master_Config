@@ -42,18 +42,16 @@ code --install-extension cyberbiont.vscode-sidenotes
 code --install-extension dionmunk.vscode-notes
 
 
-code --install-extension formulahendry.code-runner
+
 code --install-extension formulahendry.terminal
 code --install-extension formulahendry.terminal
 
 
 
-code --install-extension jchannon.csharpextensions
 
 
 
-code --install-extension lostintangent.wikilens
-code --install-extension lostintangent.wikilens
+
 
 
 code --install-extension mechatroner.rainbow-csv
