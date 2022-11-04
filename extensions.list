@@ -69,6 +69,7 @@ code --install-extension bierner.markdown-preview-github-styles
 code --install-extension bierner.markdown-yaml-preamble
 code --install-extension mathpix.vscode-mathpix-markdown
 code --install-extension sndst00m.markdown-github-dark-pack
+code --install-extension bierner.emojisense
 
 
 ######################################## FLUTTER ###################################################
@@ -80,24 +81,27 @@ code --install-extension sndst00m.markdown-github-dark-pack
 #code --install-extension localizely.flutter-intl
 #code --install-extension wangxinhai-ref-chunsen.flutter-code-select
 #code --install-extension yt1997kt.flutter-bloc
+#code --install-extension jeroen-meijer.pubspec-assist
+
 
 
 ######################################## JAVA ######################################################
-code --install-extension georgewfraser.vscode-javac
-code --install-extension redhat.java
-code --install-extension vscjava.vscode-java-debug
-code --install-extension vscjava.vscode-java-dependency
-code --install-extension vscjava.vscode-java-pack
-code --install-extension vscjava.vscode-java-test
-code --install-extension vscjava.vscode-maven
-code --install-extension vscjava.vscode-spring-boot-dashboard
-code --install-extension vscjava.vscode-spring-initializr
-code --install-extension Pivotal.vscode-boot-dev-pack
-code --install-extension Pivotal.vscode-spring-boot
+#code --install-extension georgewfraser.vscode-javac
+#code --install-extension redhat.java
+#code --install-extension vscjava.vscode-java-debug
+#code --install-extension vscjava.vscode-java-dependency
+#code --install-extension vscjava.vscode-java-pack
+#code --install-extension vscjava.vscode-java-test
+#code --install-extension vscjava.vscode-maven
+#code --install-extension vscjava.vscode-spring-boot-dashboard
+#code --install-extension vscjava.vscode-spring-initializr
+#code --install-extension Pivotal.vscode-boot-dev-pack
+#code --install-extension Pivotal.vscode-spring-boot
 
 
 ######################################## CPP #######################################################
-code --install-extension ms-vscode.cmake-tools
-code --install-extension ms-vscode.cpptools
-code --install-extension ms-vscode.cpptools-extension-pack
-code --install-extension ms-vscode.cpptools-themes
+#code --install-extension ms-vscode.cmake-tools
+#code --install-extension ms-vscode.cpptools
+#code --install-extension ms-vscode.cpptools-extension-pack
+#code --install-extension ms-vscode.cpptools-themes
+#code --install-extension twxs.cmake
