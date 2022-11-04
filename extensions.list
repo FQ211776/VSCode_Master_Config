@@ -158,6 +158,9 @@ code --install-extension jspolancor.presentationmode
 code --install-extension formulahendry.code-runner
 
 
-#######################################EXCEL Y CSV ###############################################
+#######################################EXCEL Y CSV ##############^^#################################
 code --install-extension GrapeCity.gc-excelviewer
+
+####################################### para colorear los logs #####################################
+code --install-extension IBM.output-colorizer
 
