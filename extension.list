@@ -47,8 +47,7 @@ code --install-extension albert.TabOut
 code --install-extension alefragnani.Bookmarks
 code --install-extension alefragnani.Bookmarks
 code --install-extension alexisvt.flutter-snippets
-code --install-extension anteprimorac.html-end-tag-labels
-code --install-extension anteprimorac.html-end-tag-labels
+
 code --install-extension atlassian.atlascode
 code --install-extension bierner.emojisense
 code --install-extension bierner.emojisense

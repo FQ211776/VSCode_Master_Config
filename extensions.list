@@ -45,3 +45,6 @@ code --install-extension tomoki1207.pdf
 ######################################## No necesita explicacion ###################################
 code --install-extension GitHub.copilot
 
+######################################## HTML  #####################################################
+code --install-extension anteprimorac.html-end-tag-labels # Cierra viñetas html
+
