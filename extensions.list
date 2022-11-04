@@ -42,3 +42,6 @@ code --install-extension OnlyLys.leaper
 ######################################## Abre pdfs dentro de VSCode ################################
 code --install-extension tomoki1207.pdf
 
+######################################## No necesita explicacion ###################################
+code --install-extension GitHub.copilot
+

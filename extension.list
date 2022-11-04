@@ -11,8 +11,7 @@ code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension FelixAngelov.bloc
-code --install-extension GitHub.copilot
-code --install-extension GitHub.copilot
+
 code --install-extension GitHub.vscode-pull-request-github
 code --install-extension GitHub.vscode-pull-request-github
 code --install-extension GrapeCity.gc-excelviewer
