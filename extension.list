@@ -51,8 +51,7 @@ code --install-extension formulahendry.terminal
 
 
 
-code --install-extension mechatroner.rainbow-csv
-code --install-extension mechatroner.VisualStudioExptTeam.vscodeintellicoderainbow-csv
+
 
 
 

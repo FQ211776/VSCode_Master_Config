@@ -160,6 +160,9 @@ code --install-extension formulahendry.code-runner
 
 #######################################EXCEL Y CSV ##############^^#################################
 code --install-extension GrapeCity.gc-excelviewer
+code --install-extension mechatroner.rainbow-csv
+
+
 
 ####################################### para colorear los logs #####################################
 code --install-extension IBM.output-colorizer
