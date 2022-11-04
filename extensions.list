@@ -27,4 +27,10 @@ code --install-extension streetsidesoftware.code-spell-checker-spanish
 
 code --install-extension CoenraadS.bracket-pair-colorizer-2
 
+######################################## Para ocultar carptas bajo demanda##########################
 
+code --install-extension PeterSchmalfeldt.explorer-exclude
+
+######################################## Para cargar varias areas de trabajo de una sola ves #######
+
+code --install-extension tomsaunders.vscode-workspace-explorer

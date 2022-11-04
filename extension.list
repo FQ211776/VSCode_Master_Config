@@ -25,14 +25,12 @@ code --install-extension OnlyLys.leaper
 code --install-extension OnlyLys.leaper
 
 
-code --install-extension PeterSchmalfeldt.explorer-exclude
-code --install-extension PeterSchmalfeldt.explorer-exclude
+
 code --install-extension PhilHindle.errorlens
 code --install-extension PhilHindle.errorlens
 code --install-extension Pivotal.vscode-boot-dev-pack
 code --install-extension Pivotal.vscode-spring-boot
-code --install-extension RedVanWorkshop.explorer-exclude-vscode-extension
-code --install-extension RedVanWorkshop.explorer-exclude-vscode-extension
+
 code --install-extension Shan.code-settings-sync
 code --install-extension Shan.code-settings-sync
 code --install-extension Stepsize.stepsize
@@ -143,8 +141,8 @@ code --install-extension telesoho.vscode-markdown-paste-image
 code --install-extension telesoho.vscode-markdown-paste-image
 code --install-extension tomoki1207.pdf
 code --install-extension tomoki1207.pdf
-code --install-extension tomsaunders.vscode-workspace-explorer
-code --install-extension tomsaunders.vscode-workspace-explorer
+
+
 code --install-extension twxs.cmake
 code --install-extension twxs.cmake
 code --install-extension usernamehw.errorlens
