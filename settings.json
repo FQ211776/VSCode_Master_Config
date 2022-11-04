@@ -282,4 +282,21 @@
     "extensions.autoUpdate": true,
     "problems.defaultViewMode": "table",
     "problems.showCurrentInStatus": true,
+    //
+    //
+    // ## 002 ###################################### github copilot #########################s##########################
+    // code --install-extension GitHub.copilot
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    //
+    //
+    // ## 002 ###################################### Para hacer las presentaciones del codigo ##########################
+    //code --install-extension jspolancor.presentationmode
+    "presentationMode.zoomLevel": 4,
+    //
+    //
 }

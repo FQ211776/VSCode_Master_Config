@@ -84,7 +84,7 @@ code --install-extension bierner.emojisense
 #code --install-extension jeroen-meijer.pubspec-assist
 #code --install-extension orestesgaolin.dart-export-index
 #code --install-extension pflannery.vscode-versionlens
-
+#code --install-extension luanpotter.dart-import
 
 
 ######################################## JAVA ######################################################
@@ -150,4 +150,7 @@ code --install-extension carlocardella.vscode-filesystemtoolbox
 
 ######################################## Para el anotador de bookmarks #############################
 code --install-extension alefragnani.Bookmarks
+
+######################################## Para el anotador de bookmarks #############################
+code --install-extension jspolancor.presentationmode
 

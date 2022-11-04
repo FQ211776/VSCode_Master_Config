@@ -24,8 +24,7 @@ code --install-extension Tyriar.lorem-ipsum
 code --install-extension
 code --install-extension aaron-bond.better-comments
 code --install-extension aaron-bond.better-comments
-code --install-extension akamud.vscode-theme-onedark
-code --install-extension akamud.vscode-theme-onedark
+
 code --install-extension akmarnafi.comment-headers
 code --install-extension akmarnafi.comment-headers
 code --install-extension albert.TabOut
@@ -42,8 +41,7 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension cyberbiont.vscode-sidenotes
 code --install-extension dionmunk.vscode-notes
 
-code --install-extension equinusocio.vsc-material-theme-icons
-code --install-extension equinusocio.vsc-material-theme-icons
+
 code --install-extension formulahendry.code-runner
 code --install-extension formulahendry.terminal
 code --install-extension formulahendry.terminal
@@ -52,13 +50,11 @@ code --install-extension formulahendry.terminal
 
 code --install-extension jchannon.csharpextensions
 
-code --install-extension jspolancor.presentationmode
-code --install-extension jspolancor.presentationmode
 
 
 code --install-extension lostintangent.wikilens
 code --install-extension lostintangent.wikilens
-code --install-extension luanpotter.dart-import
+
 
 code --install-extension mechatroner.rainbow-csv
 code --install-extension mechatroner.VisualStudioExptTeam.vscodeintellicoderainbow-csv
