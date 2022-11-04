@@ -9,16 +9,16 @@ code --install-extension PKief.material-icon-theme
 #### tema
 code --install-extension zhuangtongfa.material-theme
 
-######################################## Utilidades de Texto ####################################### 
+######################################## Utilidades de Texto #######################################
 
 #### ordena varias lineas de texto en orden alfabetico al presionar <f9>
 code --install-extension Tyriar.sort-lines
 
-######################################## Para hacer auto commites ################################## 
+######################################## Para hacer auto commites ##################################
 
 code --install-extension vsls-contrib.gitdoc
 
-######################################## Para verificar ortografia  ################################ 
+######################################## Para verificar ortografia  ################################
 
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension streetsidesoftware.code-spell-checker-spanish
@@ -34,3 +34,8 @@ code --install-extension PeterSchmalfeldt.explorer-exclude
 ######################################## Para cargar varias areas de trabajo de una sola ves #######
 
 code --install-extension tomsaunders.vscode-workspace-explorer
+
+######################################## crea parentesis de cierre y sale de ellos con tab #########
+
+code --install-extension OnlyLys.leaper
+

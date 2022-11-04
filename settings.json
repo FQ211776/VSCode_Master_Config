@@ -7,7 +7,7 @@
     // #### del editor
     "editor.fontFamily": "PragmataPro Liga",
     "editor.fontLigatures": true,
-    // 
+    //
     // #### Tamaño de fuentes
     "debug.console.fontSize": 12,
     "editor.suggestFontSize": 12,
@@ -17,7 +17,7 @@
     "editor.fontSize": 16,
     //"editor.letterSpacing": 1.0,
     //"editor.lineHeight": 22,
-    //    
+    //
     // ## 002 ###################################### Reglas en la pantalla  ########################
     //
     "editor.rulers": [
@@ -26,7 +26,7 @@
         120
     ],
     //
-    //    
+    //
     // ## 003 ###################################### alugunas configuraciones de la terminal integrada ##
     "terminal.integrated.tabs.enabled": true,
     "terminal.integrated.smoothScrolling": true,
@@ -220,9 +220,9 @@
     //
     //
     // ## 002 ###################################### Archivos a excluir de busquedas y explorador ##
-    // Configure glob patterns for excluding files and folders. 
-    // For example, the files explorer decides which files and folders to show 
-    // or hide based on this setting. 
+    // Configure glob patterns for excluding files and folders.
+    // For example, the files explorer decides which files and folders to show
+    // or hide based on this setting.
     // Read more about glob patterns [here](https://code.visualstudio.com/docs/editor/codebasics#_advanced-search-options).
     "files.exclude": {
         "**/*.js": {
@@ -247,8 +247,8 @@
         "**/CVS": true,
         "**/.DS_Store": true
     },
-    // Configure glob patterns for excluding files and folders in searches. 
-    // Inherits all glob patterns from the `files.exclude` setting.   
+    // Configure glob patterns for excluding files and folders in searches.
+    // Inherits all glob patterns from the `files.exclude` setting.
     // Read more about glob patterns [here](https://code.visualstudio.com/docs/editor/codebasics#_advanced-search-options).
     "search.exclude": {
         "**/.git": true,
@@ -258,11 +258,11 @@
         "node_modules/**": true,
         "**/node_modules": true,
     },
-    // Configure glob patterns of file paths to exclude from file watching. 
-    // Patterns must match on absolute paths 
-    // (i.e. prefix with ** or the full path to match properly). 
-    // Changing this setting requires a restart. 
-    // When you experience Code consuming lots of cpu time on startup, 
+    // Configure glob patterns of file paths to exclude from file watching.
+    // Patterns must match on absolute paths
+    // (i.e. prefix with ** or the full path to match properly).
+    // Changing this setting requires a restart.
+    // When you experience Code consuming lots of cpu time on startup,
     // you can exclude large folders to reduce the initial load.
     "files.watcherExclude": {
         "**/.git/objects/**": true,

@@ -21,8 +21,8 @@ code --install-extension Gruntfuggly.todo-tree
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension IBM.output-colorizer
 code --install-extension IBM.output-colorizer
-code --install-extension OnlyLys.leaper
-code --install-extension OnlyLys.leaper
+
+
 
 
 
@@ -40,21 +40,21 @@ code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension aaron-bond.better-comments
 code --install-extension aaron-bond.better-comments
 code --install-extension akamud.vscode-theme-onedark
-code --install-extension akamud.vscode-theme-onedark     
+code --install-extension akamud.vscode-theme-onedark
 code --install-extension akmarnafi.comment-headers
-code --install-extension akmarnafi.comment-headers       
+code --install-extension akmarnafi.comment-headers
 code --install-extension albert.TabOut
 code --install-extension albert.TabOut
 code --install-extension alefragnani.Bookmarks
 code --install-extension alefragnani.Bookmarks
-code --install-extension alexisvt.flutter-snippets       
+code --install-extension alexisvt.flutter-snippets
 code --install-extension anteprimorac.html-end-tag-labels
 code --install-extension anteprimorac.html-end-tag-labels
 code --install-extension atlassian.atlascode
 code --install-extension bierner.emojisense
 code --install-extension bierner.emojisense
 code --install-extension bierner.markdown-checkbox
-code --install-extension bierner.markdown-checkbox       
+code --install-extension bierner.markdown-checkbox
 code --install-extension bierner.markdown-emoji
 code --install-extension bierner.markdown-emoji
 code --install-extension bierner.markdown-preview-github-styles
