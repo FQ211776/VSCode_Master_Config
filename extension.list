@@ -6,10 +6,6 @@ code --install-extension DiemasMichiels.emulate
 code --install-extension DiemasMichiels.emulate
 code --install-extension EliverLara.andromeda
 code --install-extension EliverLara.andromeda
-code --install-extension Equinusocio.vsc-community-material-theme
-code --install-extension Equinusocio.vsc-community-material-theme
-code --install-extension Equinusocio.vsc-material-theme
-code --install-extension Equinusocio.vsc-material-theme
 code --install-extension FelixAngelov.bloc
 
 
@@ -34,7 +30,7 @@ code --install-extension Shan.code-settings-sync
 code --install-extension Stepsize.stepsize
 code --install-extension Tyriar.lorem-ipsum
 code --install-extension Tyriar.lorem-ipsum
-code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension
 code --install-extension aaron-bond.better-comments
 code --install-extension aaron-bond.better-comments
 code --install-extension akamud.vscode-theme-onedark
@@ -79,7 +75,7 @@ code --install-extension lostintangent.wikilens
 code --install-extension luanpotter.dart-import
 
 code --install-extension mechatroner.rainbow-csv
-code --install-extension mechatroner.rainbow-csv
+code --install-extension mechatroner.VisualStudioExptTeam.vscodeintellicoderainbow-csv
 
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-dotnettools.csharp
