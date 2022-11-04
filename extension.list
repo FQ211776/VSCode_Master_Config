@@ -12,8 +12,7 @@ code --install-extension Equinusocio.vsc-material-theme
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension FelixAngelov.bloc
 
-code --install-extension GitHub.vscode-pull-request-github
-code --install-extension GitHub.vscode-pull-request-github
+
 code --install-extension GrapeCity.gc-excelviewer
 code --install-extension GrapeCity.gc-excelviewer
 code --install-extension Gruntfuggly.todo-tree
@@ -65,25 +64,21 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension cyberbiont.vscode-sidenotes
 code --install-extension dionmunk.vscode-notes
-code --install-extension eamodio.gitlens
-code --install-extension eamodio.gitlens
+
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension formulahendry.code-runner
 code --install-extension formulahendry.terminal
 code --install-extension formulahendry.terminal
 code --install-extension georgewfraser.vscode-javac
-code --install-extension henriqueBruno.github-repository-manager
-code --install-extension henriqueBruno.github-repository-manager
-code --install-extension huizhou.githd
-code --install-extension huizhou.githd
+
+
 code --install-extension jchannon.csharpextensions
 code --install-extension jeroen-meijer.pubspec-assist
 code --install-extension jeroen-meijer.pubspec-assist
 code --install-extension jspolancor.presentationmode
 code --install-extension jspolancor.presentationmode
-code --install-extension letmaik.git-tree-compare
-code --install-extension letmaik.git-tree-compare
+
 code --install-extension localizely.flutter-intl
 code --install-extension lostintangent.wikilens
 code --install-extension lostintangent.wikilens
@@ -92,8 +87,7 @@ code --install-extension mathpix.vscode-mathpix-markdown
 code --install-extension mathpix.vscode-mathpix-markdown
 code --install-extension mechatroner.rainbow-csv
 code --install-extension mechatroner.rainbow-csv
-code --install-extension mhutchie.git-graph
-code --install-extension mhutchie.git-graph
+
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-dotnettools.csharp
 code --install-extension ms-dotnettools.csharp
