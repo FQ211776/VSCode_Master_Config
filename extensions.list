@@ -35,14 +35,14 @@ code --install-extension PeterSchmalfeldt.explorer-exclude
 
 code --install-extension tomsaunders.vscode-workspace-explorer
 
-######################################## crea parentesis de cierre y sale de ellos con tab #########
+######################################## crea paréntesis de cierre y sale de ellos con tab #########
 
 code --install-extension OnlyLys.leaper
 
 ######################################## Abre pdfs dentro de VSCode ################################
 code --install-extension tomoki1207.pdf
 
-######################################## No necesita explicacion ###################################
+######################################## No necesita explicación ###################################
 code --install-extension GitHub.copilot
 
 ######################################## HTML  #####################################################
@@ -50,7 +50,7 @@ code --install-extension anteprimorac.html-end-tag-labels # Cierra viñetas html
 
 
 
-
+######################################## git #######################################################
 code --install-extension GitHub.vscode-pull-request-github
 code --install-extension eamodio.gitlens
 code --install-extension henriqueBruno.github-repository-manager
@@ -58,4 +58,14 @@ code --install-extension huizhou.githd
 code --install-extension letmaik.git-tree-compare
 code --install-extension mhutchie.git-graph
 code --install-extension vsls-contrib.gistfs
+
+######################################## Markdown ##################################################
+code --install-extension telesoho.vscode-markdown-paste-image
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension bierner.markdown-checkbox
+code --install-extension bierner.markdown-emoji
+code --install-extension bierner.markdown-preview-github-styles
+code --install-extension bierner.markdown-yaml-preamble
+code --install-extension mathpix.vscode-mathpix-markdown
+code --install-extension sndst00m.markdown-github-dark-pack
 

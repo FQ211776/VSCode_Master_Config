@@ -27,7 +27,7 @@
     ],
     //
     //
-    // ## 003 ###################################### alugunas configuraciones de la terminal integrada ##
+    // ## 003 ###################################### algunas configuraciones de la terminal integrada ##
     "terminal.integrated.tabs.enabled": true,
     "terminal.integrated.smoothScrolling": true,
     //
@@ -36,7 +36,7 @@
     "gitdoc.enabled": false,
     //
     //
-    // ## 005 ###################################### Corrector de ortografia #######################
+    // ## 005 ###################################### Corrector de ortografía #######################
     // code --install-extension streetsidesoftware.code-spell-checker
     // code --install-extension streetsidesoftware.code-spell-checker-spanish
     "cSpell.language": "en,es",
@@ -47,6 +47,7 @@
         "ARGB",
         "autofetch",
         "autofocus",
+        "Autoguardado",
         "autovalidate",
         "buildable",
         "cupertino",
@@ -57,6 +58,7 @@
         "endtemplate",
         "entrantly",
         "firestore",
+        "gitdoc",
         "gnupg",
         "gpgconf",
         "gpgsign",
@@ -76,6 +78,7 @@
         "Reparenting",
         "Schyler",
         "signingkey",
+        "spanish",
         "stringification",
         "subclassing",
         "subwidgets",
@@ -229,11 +232,8 @@
             "when": "$(basename).ts"
         },
         "**/*.js.map": true,
-        "**/.DS_Store": true,
         "**/._*": true,
         "**/.git": true,
-        "**/.hg": true,
-        "**/.svn": true,
         "**/node_modules": true,
         "**/node_modules/**": false,
         "**/target": true,
@@ -274,4 +274,12 @@
     // ## 002 ###################################### Autoguardado de los archivos ######################################
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    //
+    //
+    // ## 002 ###################################### Automáticamente actualizar las extensiones##########################
+    "extensions.autoUpdate": true,
+    "problems.defaultViewMode": "table",
+    "problems.showCurrentInStatus": true,
 }
