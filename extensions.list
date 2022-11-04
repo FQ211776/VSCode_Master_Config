@@ -82,5 +82,15 @@ code --install-extension sndst00m.markdown-github-dark-pack
 #code --install-extension yt1997kt.flutter-bloc
 
 
-
-
+######################################## JAVA ######################################################
+code --install-extension georgewfraser.vscode-javac
+code --install-extension redhat.java
+code --install-extension vscjava.vscode-java-debug
+code --install-extension vscjava.vscode-java-dependency
+code --install-extension vscjava.vscode-java-pack
+code --install-extension vscjava.vscode-java-test
+code --install-extension vscjava.vscode-maven
+code --install-extension vscjava.vscode-spring-boot-dashboard
+code --install-extension vscjava.vscode-spring-initializr
+code --install-extension Pivotal.vscode-boot-dev-pack
+code --install-extension Pivotal.vscode-spring-boot

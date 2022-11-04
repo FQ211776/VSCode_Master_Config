@@ -16,8 +16,7 @@ code --install-extension IBM.output-colorizer
 
 code --install-extension PhilHindle.errorlens
 code --install-extension PhilHindle.errorlens
-code --install-extension Pivotal.vscode-boot-dev-pack
-code --install-extension Pivotal.vscode-spring-boot
+
 
 code --install-extension Shan.code-settings-sync
 code --install-extension Shan.code-settings-sync
@@ -54,7 +53,7 @@ code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension formulahendry.code-runner
 code --install-extension formulahendry.terminal
 code --install-extension formulahendry.terminal
-code --install-extension georgewfraser.vscode-javac
+
 
 
 code --install-extension jchannon.csharpextensions
@@ -95,7 +94,7 @@ code --install-extension pflannery.vscode-versionlens
 code --install-extension quicktype.quicktype
 code --install-extension quicktype.quicktype
 code --install-extension redhat.fabric8-analytics
-code --install-extension redhat.java
+
 code --install-extension redhat.vscode-xml
 code --install-extension redhat.vscode-yaml
 code --install-extension redhat.vscode-yaml
@@ -117,13 +116,7 @@ code --install-extension twxs.cmake
 code --install-extension twxs.cmake
 code --install-extension usernamehw.errorlens
 code --install-extension usernamehw.errorlens
-code --install-extension vscjava.vscode-java-debug
-code --install-extension vscjava.vscode-java-dependency
-code --install-extension vscjava.vscode-java-pack
-code --install-extension vscjava.vscode-java-test
-code --install-extension vscjava.vscode-maven
-code --install-extension vscjava.vscode-spring-boot-dashboard
-code --install-extension vscjava.vscode-spring-initializr
+
 code --install-extension vsls-contrib.codetour
 code --install-extension vsls-contrib.codetour
 
