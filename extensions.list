@@ -94,3 +94,10 @@ code --install-extension vscjava.vscode-spring-boot-dashboard
 code --install-extension vscjava.vscode-spring-initializr
 code --install-extension Pivotal.vscode-boot-dev-pack
 code --install-extension Pivotal.vscode-spring-boot
+
+
+######################################## CPP #######################################################
+code --install-extension ms-vscode.cmake-tools
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.cpptools-extension-pack
+code --install-extension ms-vscode.cpptools-themes
