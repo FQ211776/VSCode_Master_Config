@@ -8,6 +8,7 @@ code --install-extension PKief.material-icon-theme
 
 #### tema
 code --install-extension zhuangtongfa.material-theme
+code --install-extension EliverLara.andromeda
 
 ######################################## Utilidades de Texto #######################################
 
@@ -68,4 +69,18 @@ code --install-extension bierner.markdown-preview-github-styles
 code --install-extension bierner.markdown-yaml-preamble
 code --install-extension mathpix.vscode-mathpix-markdown
 code --install-extension sndst00m.markdown-github-dark-pack
+
+
+######################################## FLUTTER ###################################################
+#code --install-extension Dart-Code.dart-code
+#code --install-extension Dart-Code.flutter
+#code --install-extension DiemasMichiels.emulate
+#code --install-extension FelixAngelov.bloc
+#code --install-extension alexisvt.flutter-snippets
+#code --install-extension localizely.flutter-intl
+#code --install-extension wangxinhai-ref-chunsen.flutter-code-select
+#code --install-extension yt1997kt.flutter-bloc
+
+
+
 

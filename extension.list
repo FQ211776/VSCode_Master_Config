@@ -1,12 +1,6 @@
 
 
-code --install-extension Dart-Code.dart-code
-code --install-extension Dart-Code.flutter
-code --install-extension DiemasMichiels.emulate
-code --install-extension DiemasMichiels.emulate
-code --install-extension EliverLara.andromeda
-code --install-extension EliverLara.andromeda
-code --install-extension FelixAngelov.bloc
+
 
 
 code --install-extension GrapeCity.gc-excelviewer
@@ -41,7 +35,7 @@ code --install-extension albert.TabOut
 code --install-extension albert.TabOut
 code --install-extension alefragnani.Bookmarks
 code --install-extension alefragnani.Bookmarks
-code --install-extension alexisvt.flutter-snippets
+
 
 code --install-extension atlassian.atlascode
 code --install-extension bierner.emojisense
@@ -69,7 +63,7 @@ code --install-extension jeroen-meijer.pubspec-assist
 code --install-extension jspolancor.presentationmode
 code --install-extension jspolancor.presentationmode
 
-code --install-extension localizely.flutter-intl
+
 code --install-extension lostintangent.wikilens
 code --install-extension lostintangent.wikilens
 code --install-extension luanpotter.dart-import
@@ -135,10 +129,10 @@ code --install-extension vsls-contrib.codetour
 
 
 
-code --install-extension wangxinhai-ref-chunsen.flutter-code-select
+
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wenfangdu.snippet-generator
 code --install-extension wenfangdu.snippet-generator
-code --install-extension yt1997kt.flutter-bloc
+
 
