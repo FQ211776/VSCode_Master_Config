@@ -5,8 +5,7 @@
 
 code --install-extension GrapeCity.gc-excelviewer
 code --install-extension GrapeCity.gc-excelviewer
-code --install-extension Gruntfuggly.todo-tree
-code --install-extension Gruntfuggly.todo-tree
+
 code --install-extension IBM.output-colorizer
 code --install-extension IBM.output-colorizer
 
@@ -108,8 +107,7 @@ code --install-extension vsls-contrib.codetour
 
 
 
-code --install-extension wayou.vscode-todo-highlight
-code --install-extension wayou.vscode-todo-highlight
+
 code --install-extension wenfangdu.snippet-generator
 code --install-extension wenfangdu.snippet-generator
 

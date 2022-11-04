@@ -135,3 +135,8 @@ code --install-extension ms-vscode.live-server
 ######################################## Error Lens ################################################
 code --install-extension usernamehw.errorlens
 
+
+######################################## Resaltado de los Todos ####################################
+code --install-extension Gruntfuggly.todo-tree
+code --install-extension wayou.vscode-todo-highlight
+
