@@ -39,3 +39,6 @@ code --install-extension tomsaunders.vscode-workspace-explorer
 
 code --install-extension OnlyLys.leaper
 
+######################################## Abre pdfs dentro de VSCode ################################
+code --install-extension tomoki1207.pdf
+
