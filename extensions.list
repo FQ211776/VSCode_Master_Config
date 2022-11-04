@@ -99,6 +99,11 @@ code --install-extension bierner.emojisense
 #code --install-extension vscjava.vscode-spring-initializr
 #code --install-extension Pivotal.vscode-boot-dev-pack
 #code --install-extension Pivotal.vscode-spring-boot
+#code --install-extension redhat.vscode-xml
+#code --install-extension redhat.vscode-yaml
+
+
+
 
 
 ######################################## CPP #######################################################
