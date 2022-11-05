@@ -59,6 +59,8 @@ code --install-extension huizhou.githd
 code --install-extension letmaik.git-tree-compare
 code --install-extension mhutchie.git-graph
 code --install-extension vsls-contrib.gistfs
+code --install-extension Andreabbondanza.ignoregit
+
 
 ######################################## Markdown ##################################################
 code --install-extension telesoho.vscode-markdown-paste-image
